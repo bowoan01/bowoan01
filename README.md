@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Andre Wibowo**.<br>
+
+Saya seorang **Mahasiswa** Di politeknik Negeri Indramayu.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/andre-wibowo-731672347/)ku ya.
+
