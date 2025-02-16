@@ -21,5 +21,5 @@ Perkenalkan nama saya **Andre Wibowo**.<br>
 
 Saya seorang **Mahasiswa** Di politeknik Negeri Indramayu.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/andre-wibowo-731672347/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/andre-wibowo-731672347/) ku ya.
 
