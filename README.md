@@ -22,9 +22,11 @@ Perkenalkan nama saya **Andre Wibowo**.<br>
 Saya seorang **Mahasiswa** Di politeknik Negeri Indramayu.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/andre-wibowo-731672347/) ku ya. <br>
+
+### Github Statistic
 <p align="left">
 <a href="https://github.com/bowoan01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bowoan01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bowoan01&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bowoan01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
